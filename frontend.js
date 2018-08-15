@@ -1,15 +1,15 @@
 var result = document.getElementById("first");
-console.log(result.innerHTML);
+console.log(result);
 
 var result2 = document.getElementsByClassName("special");
-console.log(result2[0].innerHTML);
+console.log(result2[0]);
 
 var result3 = document.getElementsByTagName("p");
-console.log(result3[0].innerHTML);
+console.log(result3[0]);
 
 
 var specialTag = document.querySelector(".special");
-console.log(specialTag.innerHTML);
+console.log(specialTag);
 
 var specialTag = document.querySelectorAll(".special");
 console.log(specialTag);
