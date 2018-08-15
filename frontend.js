@@ -20,3 +20,8 @@ h1Tag[0].style.color = "#1150b6";
 
 var h1Tag = document.getElementsByTagName("p");
 h1Tag[3].style.color = "#b61012";
+
+/*
+
+All correct. From Kenn
+*/
